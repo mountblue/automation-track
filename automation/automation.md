@@ -4,11 +4,10 @@
 
 Do watch the following videos. First one is 2 hour tutorial and second one is full course tutorial.
 
-Tutorial - around 2 hours
-[https://www.youtube.com/watch?v=5FUdrBq-WFo](https://www.youtube.com/watch?v=5FUdrBq-WFo)
-
-Full course - around 12 hours
-[https://www.youtube.com/watch?v=FRn5J31eAMw(https://www.youtube.com/watch?v=FRn5J31eAMw)
+- Tutorial - around 2 hours
+  - [https://www.youtube.com/watch?v=5FUdrBq-WFo](https://www.youtube.com/watch?v=5FUdrBq-WFo)
+- Full course - around 12 hours
+  - [https://www.youtube.com/watch?v=FRn5J31eAMw](https://www.youtube.com/watch?v=FRn5J31eAMw)
 
 ### Selenium with E-commerce Websites
 
